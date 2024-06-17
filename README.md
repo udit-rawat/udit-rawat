@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Class imbalance and Self attention projects
+- 🔭 I’m currently working on GAN based applications 
 - 🌱 I’m currently learning various machine & deep learning concepts  ...
 - 🤝 I’m looking to collaborate on any type of production or experimental ml related projects...
 - 💬 Ask me about Machine Learning , [NLP,CNN,XAI,Deep Learning]
