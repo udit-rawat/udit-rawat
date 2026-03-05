@@ -1,4 +1,4 @@
-### hey — I'm Udit
+### hey  I'm Udit
                            
   ML engineer focused on production AI systems — memory, retrieval, and agent infrastructure.
                              
