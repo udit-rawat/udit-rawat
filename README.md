@@ -1,4 +1,4 @@
- ### hey — I'm Udit
+ ### hey  I'm Udit
 
   ML engineer focused on production AI systems  memory, retrieval, and agent infrastructure.
 
@@ -7,10 +7,11 @@
 
   | Project | Description |
   |---------|-------------|
-  | **[hierarchical-reasoner](https://github.com/udit-rawat/hierarchical-reasoner)** | PyTorch reproduction of HRM — hierarchical multi-timescale reasoning in a single forward pass. `Python` |
+  | **[reel-gpt](https://github.com/udit-rawat/codex-community-hackathon-del-reel-gpt)** | Topic brief → polished vertical AI reel with script, TTS, motion graphics, and Sora clips. `Python` `TypeScript` `JavaScript` `HTML` `CSS` |
   | **[CardioX](https://github.com/udit-rawat/CardioX)** | End-to-end MLOps pipeline — AWS, MLFlow, Docker. `Python` |
   | **[Quest](https://github.com/udit-rawat/Quest)** | On-device RAG for fast coding problem lookup. `Python` |
   | **[Synthax](https://github.com/udit-rawat/Synthax)** | JAX + SymPy exploration of ML optimization via Hessians and gradients. `Python` |
+
 
 
 
