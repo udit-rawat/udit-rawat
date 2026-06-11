@@ -1,6 +1,6 @@
 ### hey, I'm Udit
 
-AI engineer shipping production LLM systems — edge SLMs, multi-agent orchestration, and inference infrastructure.
+AI engineer shipping production LLM systems  edge SLMs, multi-agent orchestration, and inference infrastructure.
 
 #### What I'm building
 
